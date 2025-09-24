@@ -1,6 +1,7 @@
+package plus;
 import java.util.Scanner;
 
-public class homework {
+public class plusassignment {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		boolean run = true;
