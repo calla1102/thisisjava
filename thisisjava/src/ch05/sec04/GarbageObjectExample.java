@@ -9,6 +9,9 @@ public class GarbageObjectExample {
 		String kind1 = "자동차";
 		String kind2 = kind1;
 		kind1 = null;
+		System.out.println("hobby: "+hobby);
+		System.out.println("kind1: "+kind1);
+
 		System.out.println("kind2: "+kind2);
 	}
 
